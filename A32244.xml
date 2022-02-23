@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties gracious letter to the Convention of Estates in Scotland, the 13th of June 1678 and the speech of ... the Duke of Lauderdale ... to the Convention of Estates at Edenburgh, the 4th of July, 1678, with the dutiful letter sent to His Majesty from the Convention of Estates in Scotland, the 11th of July, 1678.</title>
+            <author>Charles II, King of England, 1630-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32244</idno>
+            <idno type="STC">Wing C3029</idno>
+            <idno type="STC">ESTC R13032</idno>
+            <idno type="EEBO-CITATION">12334587</idno>
+            <idno type="OCLC">ocm 12334587</idno>
+            <idno type="VID">59739</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32244)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59739)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 934:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties gracious letter to the Convention of Estates in Scotland, the 13th of June 1678 and the speech of ... the Duke of Lauderdale ... to the Convention of Estates at Edenburgh, the 4th of July, 1678, with the dutiful letter sent to His Majesty from the Convention of Estates in Scotland, the 11th of July, 1678.</title>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Lauderdale, John Maitland, Duke of, 1616-1682.</author>
+                  <author>Scotland. Convention of Estates.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.N. for Andrew Forrester,</publisher>
+                  <pubPlace>In the Savoy [London] :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Imperfect copy: Print on title page partially obliterated. Title verified from caption titles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:59739:1"/>
+            <!-- PDF PAGE 25 -->
+            <pb n="1" facs="tcp:59739:1"/>
+            <!-- PDF PAGE 25 -->
+            <head>HIS MAJESTIES GRACIOUS LETTER TO THE Convention of Eſtates IN SCOTLAND, <date>The 13 of <hi>J<g ref="char:V">Ʋ</g>NE,</hi> 1678.</date>
+            </head>
+            <opener>
+               <signed>CHARLES R.</signed>
+               <lb/>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S We have, by many former Letters directed to preceding Parliaments and Conventions, ſo often and ſo fully expreſſed Our great Confidence in the Hearty, Loyal and Sincere Affections both of the Repreſentative, and of the much greater part of the Body of that Our Ancient Kingdom; ſo now We cannot but aſſure you, That We repoſe the ſame Confidence in you of this Convention; Reſolving that this Our renewed Aſſurance We have of you, ſhall remain on Record to Poſterity as well as the former. Thoſe Conventions preceding you, did fully anſwer Our Expectations, and We have good reaſon to have the ſame Confidence of you: And therefore We ſhall only acquaint you with the Reaſons of Our Calling you together.</p>
+            <p>
+               <pb n="2" facs="tcp:59739:2"/>
+               <!-- PDF PAGE 26 -->
+The great Kindneſs We bear to that Our Ancient Kingdom, hath, at all Times, inclined Us to be very watchful over all its Concerns; And conſidering that all Kings and States do at pre<g ref="char:EOLhyphen"/>ſent carefully Secure Themſelves and their People, by providing againſt all ſuch Foreign Invaſions, and Inteſtine Commotions, as may make them a Prey to their Enemies; It is not fit, That that Our Kingdom ſhould only, of all others, remain without De<g ref="char:EOLhyphen"/>fence; Eſpecially at a time wherein thoſe dangerous Field-Con<g ref="char:EOLhyphen"/>venticles (ſo juſtly termed in our Laws, <hi>The Rendevouzes of Rebellion</hi>) d<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtill grow in their Numbers and Inſolencies; Againſt all which, Our preſent Forces cannot in reaſon be thought a ſuitable Security. Therefore, and that we may be the better enabled to raiſe ſome more Forces, for ſecuring that Our Kingdom againſt all Foreign Invaſions, and Inteſtine Com<g ref="char:EOLhyphen"/>motions, and to the end they may be maintained by ſuch equal and regular Wayes as may give leaſt Diſſatisfaction to Our Peo<g ref="char:EOLhyphen"/>ple, and to let the World ſee the Unanimous Affection of Our People to Us: Theſe are the only Reaſons of Calling you to<g ref="char:EOLhyphen"/>gether at this time. And although We have been alwayes very unwilling to lay Burthen upon that Our Kingdom, yet We could not neglect the giving you this opportunity, to witneſs your Affection to Our Service, eſpecially in ſo dangerous a Time, and for ſo important a Cauſe. And ſeeing We are reſolved to em<g ref="char:EOLhyphen"/>ploy what you ſhall give, only for the Peace and Security of that Our Kingdom, We doubt not but you will chearfully give ſuch a Supply as may be effectual for the Ends propoſed, ſuch as the Kingdom can bear.</p>
+            <p>As to the way of raiſing this Supply, We know the like hath been formerly done, both by way of Taxation, and by way of Valuation of the yearly Land-Rents, and we know Taxation to be the ancient way, yet We underſtand it will take ſo much time in Collecting, that it will not anſwer the preſent Exigent; Therefore we do earneſtly recommend to you, to take the moſt eaſie and expedite way of raiſing Money for this ſo neceſſary a Work. We confidently expect that all Ranks and Conditions of Men (excepting only Colledges and Hoſpitals) will wil<g ref="char:EOLhyphen"/>lingly Contribute for the Defence of the Kingdom, and their own Preſervation, againſt Foreign and Domeſtick Enemies: This is the only Buſineſs you are to do in this Convention.</p>
+            <p>
+               <pb n="3" facs="tcp:59739:2"/>
+               <!-- PDF PAGE 26 -->
+We have made choice of the Duke of <hi>Landerdale</hi> to be Our Commiſſioner for this Convention, who hath ſo often faithfully ſerved Us in that Station; and not only in this, but in all other Capacities, as well for Our Intereſt, as for the Advantage of His Native Countrey; And therefore We do expect you will give entire Credit unto him whom We ſo much truſt. He will more particularly acquaint you of what may concern this Buſineſs, for which We have now called you. He will alſo tell you how con<g ref="char:EOLhyphen"/>fident We are of you, and how ready we ſhall be, upon all oc<g ref="char:EOLhyphen"/>caſions, to do every thing that may be, for the Good of that Our Kingdom, whoſe Intereſt ſhall ever be dear unto Us; And ſo we cannot but be confident, That after your Diſſolution, you will in your ſeveral Stations, give real Teſtimonies of your Zeal to Our Service, to the Maintenance of Our Government both in Church and State, as it is now Eſtabliſhed by Law, and to the preſerving the Peace of the Kingdom; in which, according to every Mans Actions, he may expect Marks of Our Royal Fa<g ref="char:EOLhyphen"/>vor. And ſo We bid you heartily Farewell.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehall,</hi> 
+                  <date>the 13<hi rend="sup">th</hi> day of <hi>June,</hi> 1678. and of Our Reign the 30<hi rend="sup">th</hi> Year.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="speech">
+            <pb n="4" facs="tcp:59739:3"/>
+            <!-- PDF PAGE 27 -->
+            <head>THE SPEECH OF HIS GRACE THE Duke of Lauderdale, HIS MAJESTIES High Commiſſioner, TO THE Convention of Eſtates at <hi>EDENB<g ref="char:V">Ʋ</g>RGH,</hi> 
+               <date>The 4<hi rend="sup">th</hi> of <hi>J<g ref="char:V">Ʋ</g>LY,</hi> 1678.</date>
+            </head>
+            <opener>
+               <salute>My Lords Spiritual and Temporal, and you Gentlemen the Commiſſioners of the Shires, and of the Royal Burroughs.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>O<g ref="char:V">Ʋ</g> have heard in His Majeſties Moſt Gracious Letter, now read to you, the renewed Expreſſions of His Kindneſs to, and Confidence in the Hearty, Loyal and Sincere Affection of you the Repreſenters, and of the much greater part of the Body of this His Ancient Kingdom. He hath ſo fully expreſſed this to all the Seſſions of His Two Parliaments, and to the Two for<g ref="char:EOLhyphen"/>mer Conventions; He hath given ſuch real, and ſuch convincing Teſtimonies of this, in all the Acts of His Government theſe Eighteen Years, ſince His Most Glorious and Happy Reſtauration, which I am ſure are ſo deeply rooted in all your Hearts, that I ſhall not further inſist. His Majeſty hath fully and clearly expreſs'd the Reaſons of His Calling this Convention, and of His Expectation of ſuch a Supply, as may Enable Him to protect and defend you againſt Foreign Invaſion, or Inteſtine Rebellion: On this I ſhall inlarge a little.</p>
+            <p>
+               <pb n="5" facs="tcp:59739:3"/>
+               <!-- PDF PAGE 27 -->
+You may remember that Four Years ago, in the last Seſſion of the last Parliament, though the King was actually Engaged in a great War, yet knowing the low Condition of this Kingdom, He asked no Supply, for then there was no appearance of any Inſurrection here, though ſoon after the end of that Parliament, the Fanaticks broke out very inſolently in divers places; I ſhall not reflect how this came.</p>
+            <p>But this Year they have been much more inſolent in numerous Field Conventicles, which the Law juſtly terms, <hi>Rendevouzes of Rebellion;</hi> And the Countries most infeſted, declared, That they were not able to ſuppreſs them, ſo there was a neceſſity to draw Forces together: I ſhall not repeat what followed upon that Occa<g ref="char:EOLhyphen"/>ſion, nor reflect upon any thing that past ſince; I will only look for<g ref="char:EOLhyphen"/>ward, how the Kingdom may be ſecured in this great Conjuncture, by the fairest and most eaſie wayes.</p>
+            <p>About the time of the date of the Kings Letter, there was an appearance of Peace betwixt our neareſt Neighbors, in <hi>France, Flan<g ref="char:EOLhyphen"/>ders,</hi> and the <hi>United Provinces,</hi> which now ſeems to be at leaſt re<g ref="char:EOLhyphen"/>tarded, and all Countries prepare for their Defence; which makes it neceſſary that this Kingdom ſhould not be the only Countrey left na<g ref="char:EOLhyphen"/>ked without any Defence: Here is no more than one Regiment of Foot, and one Troop of Guards, of ſtanding Force, and the Kings Revenue can bear no more; I need not therefore enlarge on the Neceſſity of raiſing more ſtanding Force regularly paid, to prevent Free Quarter, which would be otherwiſe unavoidable. For if there ſhould be an Invaſion, or if thoſe Field Conventicles <hi>(the true Rendevouzes of Rebellion)</hi> ſhould join in open Rebellion, as they did in the Year <hi>1666,</hi> the whole Power of the Kingdom muſt be drawn together; how burthenſome that would be, I leave you to judge; and nothing can prevent ſuch a Rebellion, but ſome more ſtanding Forces regularly paid, which may not only prevent it now, by Gods bleſſing, but ſecure us from it for the future.</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>My Lords and Gentlemen,</salute>
+                  </opener>
+                  <p>The King, like a true Father of His Countrey, puts you in mind of your danger, and propoſes to you the faireſt, the eaſieſt, and the moſt equal Remedy. His Majeſty hath theſe Eighteen Years, in all His Kingdoms, ſolemnly profeſſed His Abhorrence of Arbitrary Go<g ref="char:EOLhyphen"/>vernment,
+<pb n="6" facs="tcp:59739:4"/>
+                     <!-- PDF PAGE 28 -->His Ruling by the Law, and His inviolable Care to pre<g ref="char:EOLhyphen"/>ſerve the Liberty and Property of His Subjects: Thoſe Profeſſions have been fully made good, by all the Acts of His Government, ſince His Happy Return. And I do, in His Majeſties Name, aſſure you, That He is, and ſhall be as careful of your Liberties and Properties, as of any thing on Earth that is neareſt and deareſt to Him; And if any intruſted by Him ſhall tranſgreſs, they may certainly expect to be cruſh'd under His juſt Diſpleaſure: He will maintain the true Religion, and the ancient Government of this Church, as now Eſta<g ref="char:EOLhyphen"/>bliſhed by Law; He will Execute the Law against Tranſgreſſors; He will Maintain His Judicatures; He will defend His good Sub<g ref="char:EOLhyphen"/>jects in all their just Rights: Who would not then chearfully, and thorowly Serve and Obey ſo Gracious a King? And what He now demands, ſhall, I hope, appear neceſſary and eaſie: It will be ſome Burthen, I confeſs, but when you conſider this great Truth, That no Countrey in Europe hath born ſo little Publick Burthen as this, none at all ſince the Year <hi>1672.</hi> And how what hath been given, hath been wholly employ'd for thoſe Publick Ends for which it was given, As this I do aſſure you ſhall moſt exactly be.</p>
+                  <p>Conſider all the intolerable Burthens you lay under, whil'ſt you groan'd under Rebellion; Call to mind the Monthly Maintenances, the Ceſſes, the Loans, and that unparallel'd Oppreſſion of borrowing Money from whom they pleas'd, without Rules of Reaſon, but their own Will, which was their Law; This borrowing, was, indeed, for<g ref="char:EOLhyphen"/>cing Money, which was never Repaid. Call to mind that horrid Tyranny of the Trayterous <g ref="char:V">Ʋ</g>ſurpers, their moſt unſufferable Ceſſe of Ten thouſand pounds <hi>per Menſem,</hi> for many Years; And, at laſt, their Six thouſand pounds <hi>per Menſem</hi> conſtantly, till His Majeſties Glorious Return.</p>
+                  <p>You cannot forget their Fining and Forfeiting, their Impriſoning many of the Kings beſt Subjects, and the other Acts of their moſt unlimited and moſt inhumane Tyranny, which laſted Two and twenty Years, till God broke their Bonds, and ſet us free, by the Return of our Lawful and Moſt Gracious King. Compare then what We ſuf<g ref="char:EOLhyphen"/>fered for not Obeying the King, and for our Rebellion, and the Ef<g ref="char:EOLhyphen"/>fects of that Rebellion, the Sword of mercileſs Traytors, whom our Diviſions only enabled to ſubdue us, and I hope you will clearly ſee how happy we are in Loyalty.</p>
+                  <p>
+                     <pb n="7" facs="tcp:59739:4"/>
+                     <!-- PDF PAGE 28 -->
+You cannot imagine that the King intends to keep up a conſtant Force, while you remember that in the Year <hi>1666,</hi> the Forces then raiſed, were by His Majeſty readily disbanded when that Exigent was over, though no ſmall Endeavors were uſed for their continuance.</p>
+                  <p>The Force the King deſigns to raiſe, ſhall not be formidable, but moderate, ſuch as are of abſolute neceſſity, to which, I hope, you will give a hearty, a ready, and an <g ref="char:V">Ʋ</g>nanimous Conſent: The wayes of Impoſing it are left to your ſelves, not doubting but you will take the expediteſt way, as is hinted in the Kings Letter; And I perſuade my ſelf, by your <g ref="char:V">Ʋ</g>nanimity, you will conſider your own Reputation, and the Honor and Security of <hi>Scotland,</hi> in this ſo neceſſary Service to the beſt of Kings.</p>
+               </body>
+            </floatingText>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:59739:5"/>
+            <!-- PDF PAGE 29 -->
+            <head>THE Dutiful LETTER Sent to His MAJESTY, from the Convention of Eſtates in <hi>SCOTLAND<g ref="char:punc">▪</g>
+               </hi> 
+               <date>The 11<hi rend="sup">th</hi> of <hi>J<g ref="char:V">Ʋ</g>LY,</hi> 1678.</date>
+            </head>
+            <opener>
+               <salute>May it pleaſe Your Sacred Majeſty,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen we reflect upon the great Happineſs of living under a King of our own Nation and Religion, whoſe Predeceſſors have for many Ages kept us from being Conquered by Stran<g ref="char:EOLhyphen"/>gers, and a Prey to one another; And how that though We have been ſo Unhappy, as not to have had Your Majeſties Sacred Perſon amongſt us, yet Your Majeſty does alwayes, with a moſt Fatherly Care, provide for our Security and Happineſs; ſo that whil'ſt our Neighbors have been ſpending their Eſtates and Blood in cruel Wars, we have en<g ref="char:EOLhyphen"/>joyed a moſt ſweet and profitable Peace. We cannot be ſo far wanting to our Duty, as not to embrace every Occaſion of teſti<g ref="char:EOLhyphen"/>fying to the World, our humble and thankful Acknowledgment of thoſe Bleſſings, which we value as much, becauſe they are Marks of Your Majeſties Favor, as for being the Effects of Your Royal Protection.</p>
+            <p>And therefore we, Your Majeſties moſt Faithful and moſt Loyal Subjects, the Lords Spiritual and Temporal, and the Re<g ref="char:EOLhyphen"/>preſentatives of the Shires and Boroughs of this Your Ancient Kingdom, being Aſſembled in this the fulleſt Convention that ever has been ſeen of Your Majeſties Eſtates, do, in a Dutiful Return to thoſe and the other Marks of Your Majeſties Royal Care and Kindneſs, aſſure Your Majeſty, That though Factious and Humorous Perſons may ſeduce ſome in this Nation to depart from their Duty, yet there is generally ſo much Innate, Natio<g ref="char:EOLhyphen"/>nal,
+<pb n="9" facs="tcp:59739:5"/>
+               <!-- PDF PAGE 29 -->
+and Unalterable Kindneſs and Duty, in the Hearts of the Subjects of this Your Majeſties Ancient Kingdom, that theſe Er<g ref="char:EOLhyphen"/>rors do in moſt proceed rather from a miſrepreſentation of Your Majeſties Inclinations, than from any formed Reſolutions of op<g ref="char:EOLhyphen"/>poſing Your Authority. And that the World may know how much we truſt Your Majeſties Judgment, and how intirely we believe the Meaſures You take, to be the beſt and ſafeſt, We acknowledge it is fit we ſhould Enable Your Majeſty to reſiſt all Foreign Invaſions, at this Time eſpecially, wherein all Europe has too apparent Reaſon to be jealous of ſo Potent and Reſtleſs Neighbors. And therefore without prying into Foreign Myſte<g ref="char:EOLhyphen"/>ries, (which are the proper Employment of Princes) we do, with all humble Confidence, repoſe intirely upon Your Majeſties wiſe Conduct, being fully reſolved to contribute our Lives and Fortunes towards the maintenance of Your Majeſties Honor and Greatneſs, in which our Peace and Safety are inſeparably inclu<g ref="char:EOLhyphen"/>ded.</p>
+            <p>We hope Your Majeſty will not think it ſtrange, that after ſo inveterate and raging a Rebellion as that was, which for ſo many Years waſted all Your Majeſties Dominions, we ſhould nor ſo ful<g ref="char:EOLhyphen"/>ly and ſo ſoon return to our former Integrity, as that ſome of us ſhould not need ſometimes Your Majeſties Pardon, and all of us, at all times, Your Majeſties Aſſiſtance; But we hope that Time and Reaſon will, with Your Majeſties Juſtice, Clemency and Pru<g ref="char:EOLhyphen"/>dence, reduce this Your Ancient Kingdom, in a ſhort time, to its former intire Loyalty: Such as trouble our Peace becoming dai<g ref="char:EOLhyphen"/>ly more inconſiderable in their Numbers, as they have for a long time been, and have, in this Repreſentative of Your Majeſties Kingdom, appeared to be as to their Intereſt. And that theſe Rebellious and Schiſmatick Principles may be rooted out by law<g ref="char:EOLhyphen"/>ful and ſutable means, we have offered Your Majeſty a Supply, which nothing, ſave the Sincerity, Unanimity, and the Affection wherewith it was offered, could make any way conſiderable. And to make the ſame yet more effectual for attaining ſo deſi<g ref="char:EOLhyphen"/>rable Ends, we aſſure Your Majeſty, That we ſhall contribute our hearty Endeavors for ſuppreſſing thoſe Factious and Schiſmatick Humors, which if favoured, or indulged, would ſoon ripen into a new Rebellion, Knowing, that the ſureſt way to leſſen our Burdens, is to remove their Cauſe. And as this Supply is fur<g ref="char:EOLhyphen"/>niſhed,
+<pb n="10" facs="tcp:59739:6"/>
+               <!-- PDF PAGE 30 -->
+at this time, with reſpect only to the preſent Exigence, ſo this ſhall not leſſen our forwardneſs in appearing univerſally be<g ref="char:EOLhyphen"/>twixt 60 and 16, (Conform to the Laws of this Your Maje<g ref="char:EOLhyphen"/>ſties Kingdom) with great Alacrity and Chearfulneſs, when ever Your Majeſty calls for our Aſſiſtance.</p>
+            <p>We hope that the Duke of <hi>Lauderdale</hi> will inform Your Ma<g ref="char:EOLhyphen"/>jeſty, with what Reſpect we received and uſed him as Your High Commiſſioner; Knowing, that not to believe what is repreſent<g ref="char:EOLhyphen"/>ed, in Your Majeſties Name, by your Miniſters, is as dangerous, as to oppoſe Your Perſon in defence of Your Authority; both of theſe furniſhing equally Pretexts of oppoſing the Royal Power, when it does not pleaſe us. His management of Affairs in this Convention, has juſtified Your Majeſties Choice of him, and will (we hope) anſwer Your Expectation.</p>
+            <p>Having thus ſatisfied Your Majeſties juſt Deſires, we hope Your Majeſty, who uſes alwayes to leſſen our greateſt Guilt, and to heighten the value of our meaneſt Endeavors, will continue Your Care of our Concerns, Your Goodneſs having left us no<g ref="char:EOLhyphen"/>thing elſe to Grave; That enjoying the pious and free Exerciſe of the Proteſtant Religion, as it is preſently Eſtabliſhed in its Doctrine and Government, and the juſt Liberties of our Perſons and Properties, in the due Adminiſtration of the Laws and Cuſtoms of our Native Countrey, we may continue to bleſs God for a King, who, like God, (from whom alone our Kings derive their Power) never uſes his Power, but to do good; and may be with all Chearfulneſs ready to hazard what is ſo preſerved to us, in the defence of Your Majeſties Royal Perſon and Government. And this we have ordered to be Signed by Your Majeſties Chan<g ref="char:EOLhyphen"/>cellor, in Name of</p>
+            <closer>
+               <signed>Your Majeſties moſt Humble, Moſt Faithful and Moſt Obedient Subjects and Servants. <hi>Rothes Cancell. I. P. D. Con.</hi>
+               </signed>
+               <dateline>Edenburgh, <date>July 11. 1678.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
